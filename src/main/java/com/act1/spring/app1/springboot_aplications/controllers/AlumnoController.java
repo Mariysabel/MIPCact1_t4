@@ -4,7 +4,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
-
+//act1
+//19 7 4 36 1 30
 @Controller 
 public class AlumnoController {
 
